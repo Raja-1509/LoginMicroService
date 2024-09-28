@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "EodbPiLzVouUI5HW7Zdb8DLd9pXU75Yfl88j1WmcaEg=",
+  "Source": "Microservices.Application",
+  "BasePath": "_content/Microservices.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Projects\\MSA-Demo-Microservice\\Demo-Microservice\\Service\\Microservices.Domain\\Microservices.Domain.csproj",
+      "Version": 2,
+      "Source": "Microservices.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

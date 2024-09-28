@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EQUybRSYI58PQRlMLV9xqP68ZoerVhf8W8quU+h3f3o=",
+  "Source": "Microservices.Domain",
+  "BasePath": "_content/Microservices.Domain",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
