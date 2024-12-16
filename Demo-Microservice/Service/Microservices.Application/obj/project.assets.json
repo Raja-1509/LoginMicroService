@@ -593,19 +593,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rajen\\.nuget\\packages\\": {}
+    "C:\\Users\\mythr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\MSA-Demo-Microservice\\Demo-Microservice\\Service\\Microservices.Application\\Microservices.Application.csproj",
+      "projectUniqueName": "C:\\Projects\\LoginMicroService-main\\Demo-Microservice\\LoginMicroService\\Demo-Microservice\\Service\\Microservices.Application\\Microservices.Application.csproj",
       "projectName": "Microservices.Application",
-      "projectPath": "C:\\Projects\\MSA-Demo-Microservice\\Demo-Microservice\\Service\\Microservices.Application\\Microservices.Application.csproj",
-      "packagesPath": "C:\\Users\\rajen\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\MSA-Demo-Microservice\\Demo-Microservice\\Service\\Microservices.Application\\obj\\",
+      "projectPath": "C:\\Projects\\LoginMicroService-main\\Demo-Microservice\\LoginMicroService\\Demo-Microservice\\Service\\Microservices.Application\\Microservices.Application.csproj",
+      "packagesPath": "C:\\Users\\mythr\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\LoginMicroService-main\\Demo-Microservice\\LoginMicroService\\Demo-Microservice\\Service\\Microservices.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rajen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mythr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -617,8 +617,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Projects\\MSA-Demo-Microservice\\Demo-Microservice\\Service\\Microservices.Domain\\Microservices.Domain.csproj": {
-              "projectPath": "C:\\Projects\\MSA-Demo-Microservice\\Demo-Microservice\\Service\\Microservices.Domain\\Microservices.Domain.csproj"
+            "C:\\Projects\\LoginMicroService-main\\Demo-Microservice\\LoginMicroService\\Demo-Microservice\\Service\\Microservices.Domain\\Microservices.Domain.csproj": {
+              "projectPath": "C:\\Projects\\LoginMicroService-main\\Demo-Microservice\\LoginMicroService\\Demo-Microservice\\Service\\Microservices.Domain\\Microservices.Domain.csproj"
             }
           }
         }
@@ -670,7 +670,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
